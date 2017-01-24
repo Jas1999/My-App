@@ -2,6 +2,7 @@ import java.io.BufferedReader;// imported stuff to ensure the code works
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+//By: Jasman Singh Sahi
 
 public class MarkCalculator {
 
